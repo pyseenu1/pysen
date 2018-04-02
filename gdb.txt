@@ -1,0 +1,29 @@
+[New LWP 11960]
+[New LWP 11961]
+[New LWP 11962]
+[New LWP 11963]
+[New LWP 11968]
+[New LWP 12089]
+[New LWP 12090]
+[New LWP 12091]
+[New LWP 12092]
+[New LWP 12111]
+[New LWP 12112]
+[New LWP 12115]
+[New LWP 12116]
+[New LWP 12119]
+[New LWP 12120]
+[New LWP 12121]
+[New LWP 12124]
+[New LWP 12125]
+[New LWP 12126]
+[New LWP 12127]
+[New LWP 12128]
+[New LWP 12129]
+[New LWP 12130]
+warning: Could not load shared library symbols for bin/linux64/launcher_client.so.
+Do you need "set solib-search-path" or "set sysroot"?
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+0x00007f1836f3d3ed in ?? () from /home/pysen/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/linux64/scaleformui_client.so
+$1 = (void *) 0x0
