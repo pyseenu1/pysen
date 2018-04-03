@@ -133,11 +133,6 @@ CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/aimbottab.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/aimbottab.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/aimbottab.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/aimbottab.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/aimbottab.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/aimbottab.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/aimbottab.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/aimbottab.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/aimbottab.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/hvhtab.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/hvhtab.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -271,11 +266,6 @@ CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/hvhtab.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/hvhtab.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/hvhtab.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/hvhtab.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/hvhtab.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/hvhtab.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/hvhtab.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/hvhtab.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/hvhtab.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/misctab.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/misctab.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -409,11 +399,6 @@ CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/misctab.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/misctab.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/misctab.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/misctab.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/misctab.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/misctab.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/misctab.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/misctab.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/misctab.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/modelstab.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/modelstab.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -547,11 +532,6 @@ CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/modelstab.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/modelstab.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/modelstab.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/modelstab.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/modelstab.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/modelstab.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/modelstab.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/modelstab.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/modelstab.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/skinstab.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/skinstab.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -685,11 +665,6 @@ CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/skinstab.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/skinstab.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/skinstab.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/skinstab.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/skinstab.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/skinstab.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/skinstab.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/skinstab.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/skinstab.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/triggerbottab.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/triggerbottab.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -823,11 +798,6 @@ CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/triggerbottab.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/triggerbottab.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/triggerbottab.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/triggerbottab.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/triggerbottab.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/triggerbottab.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/triggerbottab.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/triggerbottab.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/triggerbottab.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/visualstab.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/visualstab.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -961,11 +931,6 @@ CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/visualstab.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/visualstab.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/visualstab.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/visualstab.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/visualstab.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/visualstab.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/visualstab.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/visualstab.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Tabs/visualstab.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/colors.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/colors.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -1099,11 +1064,6 @@ CMakeFiles/Fuzion.dir/src/ATGUI/Windows/colors.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/colors.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/colors.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/colors.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/colors.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/colors.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/colors.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/colors.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/colors.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/configs.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/configs.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -1237,11 +1197,6 @@ CMakeFiles/Fuzion.dir/src/ATGUI/Windows/configs.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/configs.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/configs.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/configs.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/configs.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/configs.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/configs.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/configs.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/configs.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/main.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/main.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -1375,11 +1330,6 @@ CMakeFiles/Fuzion.dir/src/ATGUI/Windows/main.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/main.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/main.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/main.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/main.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/main.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/main.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/main.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/main.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/playerlist.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/playerlist.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -1513,11 +1463,6 @@ CMakeFiles/Fuzion.dir/src/ATGUI/Windows/playerlist.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/playerlist.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/playerlist.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/playerlist.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/playerlist.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/playerlist.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/playerlist.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/playerlist.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/playerlist.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/skinmodelchanger.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/skinmodelchanger.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -1651,11 +1596,6 @@ CMakeFiles/Fuzion.dir/src/ATGUI/Windows/skinmodelchanger.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/skinmodelchanger.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/skinmodelchanger.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/skinmodelchanger.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/skinmodelchanger.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/skinmodelchanger.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/skinmodelchanger.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/skinmodelchanger.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/skinmodelchanger.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/walk.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/walk.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -1789,11 +1729,6 @@ CMakeFiles/Fuzion.dir/src/ATGUI/Windows/walk.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/walk.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/walk.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/ATGUI/Windows/walk.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/walk.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/walk.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/walk.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/walk.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/ATGUI/Windows/walk.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/ATGUI/atgui.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/ATGUI/atgui.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -1927,11 +1862,6 @@ CMakeFiles/Fuzion.dir/src/ATGUI/atgui.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/ATGUI/atgui.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/ATGUI/atgui.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/ATGUI/atgui.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/ATGUI/atgui.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/ATGUI/atgui.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/ATGUI/atgui.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/ATGUI/atgui.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/ATGUI/atgui.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/ATGUI/atguielements.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/ATGUI/atguielements.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -2065,11 +1995,6 @@ CMakeFiles/Fuzion.dir/src/ATGUI/atguielements.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/ATGUI/atguielements.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/ATGUI/atguielements.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/ATGUI/atguielements.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/ATGUI/atguielements.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/ATGUI/atguielements.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/ATGUI/atguielements.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/ATGUI/atguielements.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/ATGUI/atguielements.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Fuzion.cpp.o: build_id_hex
 CMakeFiles/Fuzion.dir/src/Fuzion.cpp.o: src/ATGUI/SegoeUI.h
@@ -2207,11 +2132,6 @@ CMakeFiles/Fuzion.dir/src/Fuzion.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Fuzion.cpp.o: src/preload.h
 CMakeFiles/Fuzion.dir/src/Fuzion.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Fuzion.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Fuzion.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Fuzion.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Fuzion.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Fuzion.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Fuzion.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/aimbot.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/aimbot.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -2346,11 +2266,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/aimbot.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/aimbot.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/aimbot.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/aimbot.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/aimbot.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/aimbot.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/aimbot.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/aimbot.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/aimbot.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/airstuck.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/airstuck.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -2484,11 +2399,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/airstuck.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/airstuck.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/airstuck.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/airstuck.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/airstuck.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/airstuck.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/airstuck.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/airstuck.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/airstuck.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/antiaim.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/antiaim.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -2622,11 +2532,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/antiaim.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/antiaim.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/antiaim.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/antiaim.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/antiaim.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/antiaim.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/antiaim.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/antiaim.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/antiaim.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/asuswalls.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/asuswalls.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -2760,11 +2665,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/asuswalls.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/asuswalls.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/asuswalls.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/asuswalls.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/asuswalls.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/asuswalls.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/asuswalls.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/asuswalls.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/asuswalls.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/autoaccept.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/autoaccept.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -2898,11 +2798,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/autoaccept.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/autoaccept.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/autoaccept.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/autoaccept.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/autoaccept.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/autoaccept.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/autoaccept.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/autoaccept.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/autoaccept.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/autoblock.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/autoblock.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -3036,11 +2931,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/autoblock.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/autoblock.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/autoblock.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/autoblock.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/autoblock.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/autoblock.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/autoblock.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/autoblock.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/autoblock.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/autodefuse.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/autodefuse.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -3174,11 +3064,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/autodefuse.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/autodefuse.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/autodefuse.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/autodefuse.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/autodefuse.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/autodefuse.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/autodefuse.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/autodefuse.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/autodefuse.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/autoknife.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/autoknife.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -3312,11 +3197,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/autoknife.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/autoknife.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/autoknife.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/autoknife.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/autoknife.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/autoknife.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/autoknife.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/autoknife.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/autoknife.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/autostrafe.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/autostrafe.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -3450,11 +3330,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/autostrafe.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/autostrafe.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/autostrafe.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/autostrafe.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/autostrafe.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/autostrafe.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/autostrafe.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/autostrafe.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/autostrafe.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/autowall.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/autowall.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -3589,11 +3464,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/autowall.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/autowall.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/autowall.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/autowall.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/autowall.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/autowall.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/autowall.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/autowall.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/autowall.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/bhop.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/bhop.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -3727,11 +3597,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/bhop.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/bhop.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/bhop.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/bhop.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/bhop.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/bhop.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/bhop.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/bhop.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/bhop.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/chams.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/chams.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -3865,11 +3730,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/chams.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/chams.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/chams.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/chams.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/chams.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/chams.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/chams.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/chams.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/chams.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/clantagchanger.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/clantagchanger.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -4003,11 +3863,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/clantagchanger.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/clantagchanger.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/clantagchanger.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/clantagchanger.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/clantagchanger.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/clantagchanger.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/clantagchanger.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/clantagchanger.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/clantagchanger.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/customglow.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/customglow.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -4141,11 +3996,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/customglow.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/customglow.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/customglow.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/customglow.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/customglow.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/customglow.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/customglow.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/customglow.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/customglow.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/disablepostprocessing.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/disablepostprocessing.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -4279,11 +4129,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/disablepostprocessing.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/disablepostprocessing.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/disablepostprocessing.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/disablepostprocessing.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/disablepostprocessing.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/disablepostprocessing.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/disablepostprocessing.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/disablepostprocessing.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/disablepostprocessing.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/dlights.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/dlights.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -4417,11 +4262,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/dlights.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/dlights.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/dlights.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/dlights.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/dlights.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/dlights.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/dlights.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/dlights.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/dlights.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/edgejump.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/edgejump.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -4555,11 +4395,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/edgejump.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/edgejump.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/edgejump.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/edgejump.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/edgejump.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/edgejump.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/edgejump.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/edgejump.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/edgejump.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/esp.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/esp.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -4694,11 +4529,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/esp.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/esp.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/esp.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/esp.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/esp.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/esp.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/esp.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/esp.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/esp.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/fakelag.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/fakelag.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -4832,11 +4662,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/fakelag.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/fakelag.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/fakelag.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/fakelag.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/fakelag.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/fakelag.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/fakelag.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/fakelag.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/fakelag.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/fovchanger.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/fovchanger.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -4970,11 +4795,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/fovchanger.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/fovchanger.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/fovchanger.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/fovchanger.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/fovchanger.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/fovchanger.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/fovchanger.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/fovchanger.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/fovchanger.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/grenadehelper.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/grenadehelper.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -5108,11 +4928,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/grenadehelper.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/grenadehelper.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/grenadehelper.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/grenadehelper.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/grenadehelper.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/grenadehelper.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/grenadehelper.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/grenadehelper.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/grenadehelper.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/hitmarkers.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/hitmarkers.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -5246,11 +5061,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/hitmarkers.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/hitmarkers.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/hitmarkers.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/hitmarkers.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/hitmarkers.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/hitmarkers.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/hitmarkers.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/hitmarkers.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/hitmarkers.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/jumpthrow.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/jumpthrow.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -5384,11 +5194,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/jumpthrow.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/jumpthrow.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/jumpthrow.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/jumpthrow.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/jumpthrow.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/jumpthrow.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/jumpthrow.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/jumpthrow.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/jumpthrow.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/namechanger.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/namechanger.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -5522,11 +5327,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/namechanger.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/namechanger.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/namechanger.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/namechanger.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/namechanger.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/namechanger.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/namechanger.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/namechanger.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/namechanger.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/namestealer.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/namestealer.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -5660,11 +5460,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/namestealer.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/namestealer.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/namestealer.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/namestealer.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/namestealer.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/namestealer.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/namestealer.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/namestealer.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/namestealer.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/noflash.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/noflash.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -5798,11 +5593,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/noflash.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/noflash.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/noflash.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/noflash.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/noflash.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/noflash.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/noflash.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/noflash.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/noflash.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/nosmoke.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/nosmoke.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -5936,11 +5726,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/nosmoke.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/nosmoke.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/nosmoke.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/nosmoke.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/nosmoke.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/nosmoke.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/nosmoke.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/nosmoke.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/nosmoke.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/predictionsystem.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/predictionsystem.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -6074,11 +5859,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/predictionsystem.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/predictionsystem.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/predictionsystem.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/predictionsystem.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/predictionsystem.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/predictionsystem.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/predictionsystem.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/predictionsystem.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/predictionsystem.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/radar.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/radar.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -6212,11 +5992,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/radar.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/radar.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/radar.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/radar.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/radar.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/radar.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/radar.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/radar.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/radar.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/recoilcrosshair.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/recoilcrosshair.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -6350,11 +6125,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/recoilcrosshair.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/recoilcrosshair.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/recoilcrosshair.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/recoilcrosshair.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/recoilcrosshair.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/recoilcrosshair.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/recoilcrosshair.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/recoilcrosshair.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/recoilcrosshair.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/resolver.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/resolver.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -6488,11 +6258,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/resolver.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/resolver.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/resolver.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/resolver.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/resolver.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/resolver.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/resolver.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/resolver.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/resolver.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/showranks.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/showranks.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -6626,11 +6391,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/showranks.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/showranks.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/showranks.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/showranks.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/showranks.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/showranks.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/showranks.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/showranks.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/showranks.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/showspectators.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/showspectators.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -6764,11 +6524,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/showspectators.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/showspectators.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/showspectators.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/showspectators.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/showspectators.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/showspectators.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/showspectators.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/showspectators.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/showspectators.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/skinchanger.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/skinchanger.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -6902,11 +6657,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/skinchanger.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/skinchanger.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/skinchanger.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/skinchanger.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/skinchanger.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/skinchanger.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/skinchanger.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/skinchanger.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/skinchanger.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/skybox.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/skybox.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -7040,11 +6790,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/skybox.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/skybox.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/skybox.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/skybox.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/skybox.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/skybox.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/skybox.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/skybox.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/skybox.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/snipercrosshair.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/snipercrosshair.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -7178,11 +6923,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/snipercrosshair.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/snipercrosshair.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/snipercrosshair.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/snipercrosshair.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/snipercrosshair.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/snipercrosshair.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/snipercrosshair.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/snipercrosshair.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/snipercrosshair.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/spammer.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/spammer.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -7316,11 +7056,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/spammer.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/spammer.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/spammer.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/spammer.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/spammer.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/spammer.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/spammer.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/spammer.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/spammer.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/thirdperson.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/thirdperson.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -7454,11 +7189,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/thirdperson.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/thirdperson.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/thirdperson.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/thirdperson.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/thirdperson.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/thirdperson.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/thirdperson.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/thirdperson.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/thirdperson.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/tracereffect.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/tracereffect.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -7592,11 +7322,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/tracereffect.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/tracereffect.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/tracereffect.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/tracereffect.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/tracereffect.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/tracereffect.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/tracereffect.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/tracereffect.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/tracereffect.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/triggerbot.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/triggerbot.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -7731,11 +7456,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/triggerbot.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/triggerbot.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/triggerbot.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/triggerbot.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/triggerbot.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/triggerbot.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/triggerbot.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/triggerbot.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/triggerbot.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/valvedscheck.cpp.o: src/Hacks/valvedscheck.cpp
 CMakeFiles/Fuzion.dir/src/Hacks/valvedscheck.cpp.o: src/Hacks/valvedscheck.h
@@ -7922,11 +7642,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/view.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/view.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/view.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/view.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/view.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/view.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/view.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/view.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/view.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hacks/walkbot.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hacks/walkbot.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -8060,11 +7775,6 @@ CMakeFiles/Fuzion.dir/src/Hacks/walkbot.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hacks/walkbot.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hacks/walkbot.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hacks/walkbot.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hacks/walkbot.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hacks/walkbot.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hacks/walkbot.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hacks/walkbot.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hacks/walkbot.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/BeginFrame.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/BeginFrame.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -8198,11 +7908,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/BeginFrame.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/BeginFrame.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/BeginFrame.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/BeginFrame.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/BeginFrame.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/BeginFrame.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/BeginFrame.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/BeginFrame.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/BeginFrame.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/CreateMove.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/CreateMove.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -8336,11 +8041,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/CreateMove.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/CreateMove.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/CreateMove.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/CreateMove.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/CreateMove.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/CreateMove.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/CreateMove.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/CreateMove.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/CreateMove.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/DrawModelExecute.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/DrawModelExecute.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -8474,11 +8174,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/DrawModelExecute.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/DrawModelExecute.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/DrawModelExecute.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/DrawModelExecute.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/DrawModelExecute.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/DrawModelExecute.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/DrawModelExecute.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/DrawModelExecute.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/DrawModelExecute.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/EmitSound.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/EmitSound.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -8612,11 +8307,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/EmitSound.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/EmitSound.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/EmitSound.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/EmitSound.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/EmitSound.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/EmitSound.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/EmitSound.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/EmitSound.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/EmitSound.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/FireEvent.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/FireEvent.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -8750,11 +8440,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/FireEvent.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/FireEvent.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/FireEvent.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/FireEvent.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/FireEvent.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/FireEvent.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/FireEvent.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/FireEvent.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/FireEvent.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/FireEventClientSide.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/FireEventClientSide.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -8888,11 +8573,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/FireEventClientSide.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/FireEventClientSide.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/FireEventClientSide.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/FireEventClientSide.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/FireEventClientSide.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/FireEventClientSide.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/FireEventClientSide.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/FireEventClientSide.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/FireEventClientSide.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/FrameStageNotify.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/FrameStageNotify.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -9026,11 +8706,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/FrameStageNotify.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/FrameStageNotify.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/FrameStageNotify.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/FrameStageNotify.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/FrameStageNotify.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/FrameStageNotify.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/FrameStageNotify.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/FrameStageNotify.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/FrameStageNotify.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/GetViewModelFOV.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/GetViewModelFOV.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -9164,11 +8839,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/GetViewModelFOV.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/GetViewModelFOV.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/GetViewModelFOV.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/GetViewModelFOV.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/GetViewModelFOV.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/GetViewModelFOV.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/GetViewModelFOV.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/GetViewModelFOV.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/GetViewModelFOV.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/IN_KeyEvent.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/IN_KeyEvent.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -9302,11 +8972,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/IN_KeyEvent.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/IN_KeyEvent.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/IN_KeyEvent.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/IN_KeyEvent.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/IN_KeyEvent.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/IN_KeyEvent.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/IN_KeyEvent.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/IN_KeyEvent.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/IN_KeyEvent.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/OnScreenSizeChanged.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/OnScreenSizeChanged.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -9440,11 +9105,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/OnScreenSizeChanged.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/OnScreenSizeChanged.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/OnScreenSizeChanged.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/OnScreenSizeChanged.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/OnScreenSizeChanged.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/OnScreenSizeChanged.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/OnScreenSizeChanged.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/OnScreenSizeChanged.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/OnScreenSizeChanged.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/OverrideView.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/OverrideView.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -9578,11 +9238,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/OverrideView.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/OverrideView.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/OverrideView.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/OverrideView.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/OverrideView.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/OverrideView.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/OverrideView.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/OverrideView.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/OverrideView.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/Paint.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/Paint.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -9716,11 +9371,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/Paint.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/Paint.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/Paint.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/Paint.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/Paint.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/Paint.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/Paint.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/Paint.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/Paint.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/PaintTraverse.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/PaintTraverse.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -9854,11 +9504,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/PaintTraverse.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/PaintTraverse.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/PaintTraverse.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/PaintTraverse.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/PaintTraverse.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/PaintTraverse.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/PaintTraverse.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/PaintTraverse.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/PaintTraverse.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/PlaySound.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/PlaySound.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -9992,11 +9637,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/PlaySound.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/PlaySound.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/PlaySound.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/PlaySound.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/PlaySound.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/PlaySound.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/PlaySound.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/PlaySound.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/PlaySound.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/PumpWindowsMessageLoop.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/PumpWindowsMessageLoop.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -10130,11 +9770,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/PumpWindowsMessageLoop.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/PumpWindowsMessageLoop.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/PumpWindowsMessageLoop.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/PumpWindowsMessageLoop.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/PumpWindowsMessageLoop.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/PumpWindowsMessageLoop.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/PumpWindowsMessageLoop.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/PumpWindowsMessageLoop.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/PumpWindowsMessageLoop.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/RenderSmokePostViewmodel.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/RenderSmokePostViewmodel.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -10268,11 +9903,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/RenderSmokePostViewmodel.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/RenderSmokePostViewmodel.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/RenderSmokePostViewmodel.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/RenderSmokePostViewmodel.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/RenderSmokePostViewmodel.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/RenderSmokePostViewmodel.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/RenderSmokePostViewmodel.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/RenderSmokePostViewmodel.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/RenderSmokePostViewmodel.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/RenderView.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/RenderView.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -10406,11 +10036,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/RenderView.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/RenderView.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/RenderView.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/RenderView.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/RenderView.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/RenderView.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/RenderView.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/RenderView.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/RenderView.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/SetKeyCodeState.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/SetKeyCodeState.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -10544,11 +10169,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/SetKeyCodeState.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/SetKeyCodeState.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/SetKeyCodeState.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/SetKeyCodeState.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/SetKeyCodeState.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/SetKeyCodeState.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/SetKeyCodeState.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/SetKeyCodeState.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/SetKeyCodeState.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Hooks/SetMouseCodeState.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Hooks/SetMouseCodeState.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -10682,11 +10302,6 @@ CMakeFiles/Fuzion.dir/src/Hooks/SetMouseCodeState.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Hooks/SetMouseCodeState.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Hooks/SetMouseCodeState.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Hooks/SetMouseCodeState.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Hooks/SetMouseCodeState.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Hooks/SetMouseCodeState.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Hooks/SetMouseCodeState.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Hooks/SetMouseCodeState.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Hooks/SetMouseCodeState.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/ImGUI/imgui.cpp.o: src/ImGUI/imconfig.h
 CMakeFiles/Fuzion.dir/src/ImGUI/imgui.cpp.o: src/ImGUI/imgui.cpp
@@ -10843,11 +10458,6 @@ CMakeFiles/Fuzion.dir/src/Utils/draw.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Utils/draw.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Utils/draw.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Utils/draw.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Utils/draw.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Utils/draw.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Utils/draw.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Utils/draw.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Utils/draw.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Utils/entity.cpp.o: src/ImGUI/imconfig.h
 CMakeFiles/Fuzion.dir/src/Utils/entity.cpp.o: src/ImGUI/imgui.h
@@ -11137,11 +10747,6 @@ CMakeFiles/Fuzion.dir/src/Utils/patternfinder.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Utils/patternfinder.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Utils/patternfinder.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Utils/patternfinder.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Utils/patternfinder.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Utils/patternfinder.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Utils/patternfinder.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Utils/patternfinder.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Utils/patternfinder.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Utils/skins.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Utils/skins.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -11275,11 +10880,6 @@ CMakeFiles/Fuzion.dir/src/Utils/skins.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Utils/skins.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Utils/skins.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Utils/skins.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Utils/skins.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Utils/skins.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Utils/skins.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Utils/skins.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Utils/skins.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Utils/util.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Utils/util.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -11413,11 +11013,6 @@ CMakeFiles/Fuzion.dir/src/Utils/util.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Utils/util.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Utils/util.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Utils/util.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Utils/util.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Utils/util.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Utils/util.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Utils/util.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Utils/util.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Utils/util_items.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/Utils/util_items.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -11551,11 +11146,6 @@ CMakeFiles/Fuzion.dir/src/Utils/util_items.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/Utils/util_items.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/Utils/util_items.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/Utils/util_items.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/Utils/util_items.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/Utils/util_items.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/Utils/util_items.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/Utils/util_items.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/Utils/util_items.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/Utils/util_sdk.cpp.o: src/ImGUI/imconfig.h
 CMakeFiles/Fuzion.dir/src/Utils/util_sdk.cpp.o: src/ImGUI/imgui.h
@@ -11795,11 +11385,6 @@ CMakeFiles/Fuzion.dir/src/fonts.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/fonts.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/fonts.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/fonts.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/fonts.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/fonts.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/fonts.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/fonts.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/fonts.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/glhook.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/glhook.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -11933,11 +11518,6 @@ CMakeFiles/Fuzion.dir/src/glhook.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/glhook.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/glhook.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/glhook.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/glhook.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/glhook.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/glhook.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/glhook.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/glhook.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/hooker.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/hooker.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -12071,11 +11651,6 @@ CMakeFiles/Fuzion.dir/src/hooker.cpp.o: src/json/json.h
 CMakeFiles/Fuzion.dir/src/hooker.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/hooker.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/hooker.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/hooker.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/hooker.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/hooker.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/hooker.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/hooker.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/interfaces.cpp.o: src/ImGUI/imconfig.h
 CMakeFiles/Fuzion.dir/src/interfaces.cpp.o: src/ImGUI/imgui.h
@@ -12318,11 +11893,6 @@ CMakeFiles/Fuzion.dir/src/preload.cpp.o: src/preload.cpp
 CMakeFiles/Fuzion.dir/src/preload.cpp.o: src/preload.h
 CMakeFiles/Fuzion.dir/src/preload.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/preload.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/preload.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/preload.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/preload.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/preload.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/preload.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/settings.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/settings.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -12456,11 +12026,6 @@ CMakeFiles/Fuzion.dir/src/settings.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/settings.cpp.o: src/settings.cpp
 CMakeFiles/Fuzion.dir/src/settings.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/settings.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/settings.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/settings.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/settings.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/settings.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/settings.cpp.o: /usr/include/lua5.3/lualib.h
 
 CMakeFiles/Fuzion.dir/src/shortcuts.cpp.o: src/ATGUI/SegoeUI.h
 CMakeFiles/Fuzion.dir/src/shortcuts.cpp.o: src/ATGUI/Tabs/aimbottab.h
@@ -12594,9 +12159,4 @@ CMakeFiles/Fuzion.dir/src/shortcuts.cpp.o: src/offsets.h
 CMakeFiles/Fuzion.dir/src/shortcuts.cpp.o: src/settings.h
 CMakeFiles/Fuzion.dir/src/shortcuts.cpp.o: src/shortcuts.cpp
 CMakeFiles/Fuzion.dir/src/shortcuts.cpp.o: src/shortcuts.h
-CMakeFiles/Fuzion.dir/src/shortcuts.cpp.o: /usr/include/lua5.3/lauxlib.h
-CMakeFiles/Fuzion.dir/src/shortcuts.cpp.o: /usr/include/lua5.3/lua.h
-CMakeFiles/Fuzion.dir/src/shortcuts.cpp.o: /usr/include/lua5.3/lua.hpp
-CMakeFiles/Fuzion.dir/src/shortcuts.cpp.o: /usr/include/lua5.3/luaconf.h
-CMakeFiles/Fuzion.dir/src/shortcuts.cpp.o: /usr/include/lua5.3/lualib.h
 

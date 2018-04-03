@@ -48,10 +48,10 @@ RM = /opt/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/pysen/Fuzion
+CMAKE_SOURCE_DIR = /home/pysen/pysen7/YTFYfYGHFHGHRJFY/pysen
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/pysen/Fuzion
+CMAKE_BINARY_DIR = /home/pysen/pysen7/YTFYfYGHFHGHRJFY/pysen
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/pysen/Fuzion/CMakeFiles /home/pysen/Fuzion/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/pysen/pysen7/YTFYfYGHFHGHRJFY/pysen/CMakeFiles /home/pysen/pysen7/YTFYfYGHFHGHRJFY/pysen/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/pysen/Fuzion/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/pysen/pysen7/YTFYfYGHFHGHRJFY/pysen/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

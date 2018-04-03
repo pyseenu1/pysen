@@ -1,7 +1,7 @@
 #!/bin/bash
 #TODO: check distro and packages
 
-cmake . || exit 1
+cmake -j 3 . || exit 1
 
 if ! hash patchelf 2>/dev/null; then
     echo -e "\\e[31mYou need to install the \"patchelf\" command!\nUse your package manager to install it, or get source here:\nhttps://github.com/NixOS/patchelf\\e[0m"
