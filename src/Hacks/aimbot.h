@@ -19,6 +19,8 @@ namespace Aimbot
 	void XDOCleanup();
 
 	//Hooks
+	void AutoCockRevolver( C_BaseCombatWeapon* activeWeapon, C_BasePlayer* localplayer, CUserCmd* cmd );
+	bool HitChance(const Vector& vecPoint, bool teamCheck, C_BasePlayer* localplayer);
 	void CreateMove(CUserCmd* cmd);
 	void FireGameEvent(IGameEvent* event);
 	void UpdateValues();

@@ -451,6 +451,7 @@ static void DoAntiAimY(QAngle& angle, int command_number, bool bFlip, bool& clam
 	double factor;
 	static float trigger;
 	QAngle temp_qangle;
+	static float spinpysen = 0;
 	int random;
 	int maxJitter;
 	int ticks;
@@ -683,6 +684,32 @@ static void DoAntiAimY(QAngle& angle, int command_number, bool bFlip, bool& clam
             angle.y = + add;
             }
             break;
+		case AntiAimType_Y::pysenspin:
+			{
+			factor =  360.0 / M_PHI;
+			factor *= 19;
+			spinpysen = fmodf(globalVars->curtime * factor, 360.0);
+			if(spinpysen > 164)
+			spinpysen = 0;
+			angle.y = bFlip ? spinpysen : -spinpysen;
+			}
+		case AntiAimType_Y::pysenspintest:
+			{
+			factor =  360.0 / M_PHI;
+			factor *= 19;
+			spinpysen = fmodf(globalVars->curtime * factor, 360.0);
+			if(spinpysen > 188)
+			spinpysen = 0;
+			angle.y = bFlip ? command_number % 2 ? spinpysen : spinpysen + 45: command_number % 2 ? -spinpysen : -spinpysen + 55;
+			}
+			case AntiAimType_Y::pysentest:
+			{
+			angle.y = bFlip ? command_number % 2 ? 60 : 46 : command_number % 2 ? 180 : 166;
+			}
+			case AntiAimType_Y::pysentestp:
+			{
+			angle.y = bFlip ? command_number % 2 ? 60 : 33 : command_number % 2 ? 191 : 144;
+			}
 		default:
 			angle.y -= 0.0f;
 			break;

@@ -5,7 +5,7 @@
 #include "../Hooks/hooks.h"
 #include "../interfaces.h"
 #include "aimbot.h"
-#include <lua.hpp>
+//#include <lua.hpp>
 
 namespace AntiAim
 {

@@ -1,6 +1,9 @@
 #include "aimbot.h"
 #include "autowall.h"
+#define TICK_INTERVAL			(globalVars->interval_per_tick)
 
+
+#define TIME_TO_TICKS( dt ) ( (int)( 0.5f + (float)(dt) / TICK_INTERVAL ) )
 // Default aimbot settings
 bool Settings::Aimbot::enabled = false;
 bool Settings::Aimbot::silent = false;
@@ -52,6 +55,9 @@ bool Settings::Aimbot::AutoSlow::enabled = false;
 bool Settings::Aimbot::AutoSlow::goingToSlow = false;
 bool Settings::Aimbot::Prediction::enabled = false;
 bool Settings::Aimbot::moveMouse = false;
+bool Settings::Aimbot::HitChance::enabled = false;
+int Settings::Aimbot::HitChance::hitRays = 100;
+float Settings::Aimbot::HitChance::value = 0.5f;
 
 bool Aimbot::aimStepInProgress = false;
 std::vector<int64_t> Aimbot::friends = { };
@@ -69,7 +75,7 @@ static xdo_t *xdo = xdo_new(NULL);
 std::unordered_map<ItemDefinitionIndex, AimbotWeapon_t, Util::IntHash<ItemDefinitionIndex>> Settings::Aimbot::weapons = {
 		{ ItemDefinitionIndex::INVALID, { false, false, false, false, false, false, 700, Bone::BONE_HEAD, ButtonCode_t::MOUSE_MIDDLE, false, false, 1.0f,
 												SmoothType::SLOW_END, false, 0.0f, false, 0.0f, true, 180.0f, false, 25.0f, 35.0f, false, false, 2.0f, 2.0f,
-												false, false, false, false, false, false, false, false, 0.1f ,false, 10.0f, false, false, 5.0f, false } },
+												false, false, false, false, false, false, false, false, 0.1f ,false, 10.0f, false, false, 5.0f, false, false, 100, 0.5f } },
 };
 
 static QAngle ApplyErrorToAngle(QAngle* angles, float margin)
@@ -89,6 +95,89 @@ void Aimbot::XDOCleanup()
 {
 	xdo_free(xdo);
 }
+
+bool Aimbot::HitChance(const Vector& point, bool teamCheck, C_BasePlayer* localplayer)
+{
+	if (!Settings::Aimbot::HitChance::enabled)
+		return true;
+	
+	int hitCount = 0;
+	for (int i = 0; i < Settings::Aimbot::HitChance::hitRays; i++) {
+		Vector dst = point;
+	
+		C_BaseCombatWeapon* activeWeapon = (C_BaseCombatWeapon*) entityList->GetClientEntityFromHandle(localplayer->GetActiveWeapon());
+		if (!activeWeapon)
+			return false;
+
+		float a = (float)M_PI * 2.0f * ((float)(rand() % 1000)/1000.0f);
+		float b = activeWeapon->GetSpread() * ((float)(rand() % 1000)/1000.0f) * 90.0f;
+		float c = (float)M_PI * 2.0f * ((float)(rand() % 1000)/1000.0f);
+		float d = activeWeapon->GetInaccuracy() * ((float)(rand() % 1000)/1000.0f) * 90.0f;
+
+		Vector dir, src, dest;
+    trace_t tr;
+    Ray_t ray;
+    CTraceFilter filter;
+
+    src = localplayer->GetEyePosition();
+    QAngle angles = Math::CalcAngle(src, dst);
+    angles.x += (cos(a) * b) + (cos(c) * d);
+  	angles.y += (sin(a) * b) + (sin(c) * d);
+    Math::AngleVectors(angles, dir);
+    dest = src + (dir * 8192);
+		
+		ray.Init(src, dest);
+    filter.pSkip = localplayer;
+		trace->TraceRay(ray, MASK_SHOT, &filter, &tr);
+	
+		C_BasePlayer* player = (C_BasePlayer*) tr.m_pEntityHit;
+    if (player && player->GetClientClass()->m_ClassID == EClassIds::CCSPlayer && player != localplayer && !player->GetDormant() && player->GetAlive() && !player->GetImmune() && (player->GetTeam() != localplayer->GetTeam() || Settings::Aimbot::friendly))	
+			hitCount++;
+	}
+
+	//cvar->ConsoleDPrintf("HitCount: %d/%d - %f\n", hitCount, Settings::Aimbot::HitChance::hitRays, Settings::Aimbot::HitChance::value);
+
+
+	return ((float)hitCount/(float)Settings::Aimbot::HitChance::hitRays > Settings::Aimbot::HitChance::value);
+}
+
+void Aimbot::AutoCockRevolver( C_BaseCombatWeapon* activeWeapon, C_BasePlayer* localplayer, CUserCmd* cmd ) {
+   // if ( !Settings::Aimbot::AutoCockRevolver::enabled )
+     //   return;
+
+    if ( !localplayer || !localplayer->GetAlive() )
+        return;
+
+    if ( localplayer->GetFrozen() )
+        return;
+
+    if ( cmd->buttons & IN_RELOAD )
+        return;
+
+    if ( *activeWeapon->GetItemDefinitionIndex() != ItemDefinitionIndex::WEAPON_REVOLVER )
+        return;
+    /*static int timer = 0;
+    timer++;
+
+    if ( timer <= 15 )
+        cmd->buttons |= IN_ATTACK;
+
+    else
+        timer = 0;*/
+
+  //  Aimbot::shootingRevolver = false;
+    cmd->buttons |= IN_ATTACK;
+   // float postponeFireReady = activeWeapon->GetPostponeFireReadyTime();
+	            float flPostponeFireReady = TIME_TO_TICKS(Interfaces::Globals->curtime - activeWeapon->GetPostponeFireReadyTime());
+    if ( cmd->buttons & IN_ATTACK2 ) {
+        cmd->buttons |= IN_ATTACK;
+    //    Aimbot::shootingRevolver = true;
+    } else if ( postponeFireReady > 0 && postponeFireReady < globalVars->curtime ) {
+        cmd->buttons &= ~IN_ATTACK;
+    }
+}
+
+
 /* Fills points Vector. True if successful. False if not.  Credits for Original method - ReactiioN */
 static bool HeadMultiPoint(C_BasePlayer *player, Vector points[])
 {

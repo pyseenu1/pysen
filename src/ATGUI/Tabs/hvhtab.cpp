@@ -5,16 +5,9 @@ void HvH::RenderTab()
 	const char* yTypes[] = {
 			"SLOW SPIN", "FAST SPIN", "JITTER", "BACKJITTER", "SIDE", "BACKWARDS", "FORWARDS", "LEFT", "RIGHT", "STATIC", "STATIC JITTER", "STATIC SMALL JITTER", "LUA", "LUA2", "CASUALAA",// safe
 			"LISP", "LISP SIDE", "LISP JITTER", "ANGEL BACKWARDS", "ANGEL INVERSE", "ANGEL SPIN", "LOWERBODY", "LBYONGROUND", "LUA UNCLAMPED", "LUA UNCLAMPED2", "HYPNO", "DONUT",
-		"JITTERSYNCED", "FJITTER",// untrusted
+		"JITTERSYNCED", "FJITTER","pysenspin","pysentest" ,"pysenspintest", "pysentestp",// untrusted
 	};
-/*	JITTER_180,
-	AUTISM,
-	TJITTER,
-	FJITTER,
-	JITTERSYNCED,
-	FLIP,
-	DONUT,
-	HYPNO*/
+
 	const char* xTypes[] = {
 			"UP", "DOWN", "DANCE", "FRONT", "LUA", // safe
 			"FAKE UP", "FAKE DOWN", "LISP DOWN", "ANGEL DOWN", "ANGEL UP", "LUA UNCLAMPED" // untrusted

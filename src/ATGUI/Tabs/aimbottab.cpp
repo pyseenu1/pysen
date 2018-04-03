@@ -48,6 +48,9 @@ static float autoWallValue = 10.0f;
 static bool autoAimRealDistance = false;
 static bool autoSlow = false;
 static bool predEnabled = false;
+static bool hitChanceEnabled = false;
+static int hitChanceRays = 100;
+static float hitChanceValue = 0.5f;
 
 void UI::ReloadWeaponSettings()
 {
@@ -96,7 +99,9 @@ void UI::ReloadWeaponSettings()
 	autoAimRealDistance = Settings::Aimbot::weapons.at(index).autoAimRealDistance;
 	autoSlow = Settings::Aimbot::weapons.at(index).autoSlow;
 	predEnabled = Settings::Aimbot::weapons.at(index).predEnabled;
-
+	hitChanceEnabled = Settings::Aimbot::weapons.at(index).hitChanceEnabled;
+	hitChanceRays = Settings::Aimbot::weapons.at(index).hitChanceRays;
+	hitChanceValue = Settings::Aimbot::weapons.at(index).hitChanceValue;
 	for (int bone = (int) DesiredBones::BONE_PELVIS; bone <= (int) DesiredBones::BONE_RIGHT_SOLE; bone++)
 		desiredBones[bone] = Settings::Aimbot::weapons.at(index).desiredBones[bone];
 }
@@ -113,8 +118,7 @@ void UI::UpdateWeaponSettings()
 			autoAimEnabled, autoAimValue, aimStepEnabled, aimStepMin, aimStepMax,
 			rcsEnabled, rcsAlwaysOn, rcsAmountX, rcsAmountY,
 			autoPistolEnabled, autoShootEnabled, autoScopeEnabled,
-			noShootEnabled, ignoreJumpEnabled, smokeCheck, flashCheck, spreadLimitEnabled, spreadLimit, autoWallEnabled, autoWallValue, autoAimRealDistance, autoSlow, predEnabled, moveMouse
-	};
+			noShootEnabled, ignoreJumpEnabled, smokeCheck, flashCheck, spreadLimitEnabled, spreadLimit, autoWallEnabled, autoWallValue, autoAimRealDistance, autoSlow, predEnabled, moveMouse, hitChanceEnabled, hitChanceRays, hitChanceValue};
 
 	for (int bone = (int) DesiredBones::BONE_PELVIS; bone <= (int) DesiredBones::BONE_RIGHT_SOLE; bone++)
 		settings.desiredBones[bone] = desiredBones[bone];
@@ -449,6 +453,15 @@ void Aimbot::RenderTab()
 				}
 				if (ImGui::Checkbox(XORSTR("Smoke Check"), &smokeCheck))
 					UI::UpdateWeaponSettings();
+				if( ImGui::Checkbox("Hit Chance", &hitChanceEnabled) )
+					UI::UpdateWeaponSettings();
+				SetTooltip("Spread limit, but by simulating spread of the weapon");
+				if( ImGui::SliderFloat("##HITCHANCEVALUE", &hitChanceValue, 0, 1) )
+					UI::UpdateWeaponSettings();
+				SetTooltip("Below this value, autoshoot does not shoot");
+				if( ImGui::SliderInt("##HITCHANCERAYS", &hitChanceRays, 1, 250) )
+					UI::UpdateWeaponSettings();
+				SetTooltip("Amount of rays to be shot");
 				if (ImGui::Checkbox(XORSTR("Prediction"), &predEnabled))
 					UI::UpdateWeaponSettings();
 			}
